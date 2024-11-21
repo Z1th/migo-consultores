@@ -25,6 +25,7 @@
         <x-header />
         <x-hero />
         <x-about-us />
+        <x-mision-vision />
 
         <script type="text/javascript" src="{{asset('assets/js/jquery.min.js')}}"></script>
         <script type="text/javascript" src="{{asset('assets/js/bootsnav.js')}}"></script>
