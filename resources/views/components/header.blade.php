@@ -1,6 +1,6 @@
 <header>
     <!-- start navigation -->
-    <nav class="navbar navbar-default bootsnav navbar-top header-dark background-transparent white-link navbar-expand-lg">
+    <nav class="bg-gradient-blue navbar navbar-default bootsnav navbar-top header-dark background-transparent white-link navbar-expand-lg">
         <div class="container-lg nav-header-container">
             <!-- start logo -->
             <div class="col-auto ps-0">

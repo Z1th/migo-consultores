@@ -27,7 +27,11 @@
         <x-about-us />
         <x-what-we-do />
         <x-migo-process />
-        {{-- <x-distinctions /> --}}
+        <x-distinctions />
+        <x-mision-vision />
+        <x-our-clients />
+        <x-form />>
+        <x-footer />
 
         <script type="text/javascript" src="{{asset('assets/js/jquery.min.js')}}"></script>
         <script type="text/javascript" src="{{asset('assets/js/bootsnav.js')}}"></script>
