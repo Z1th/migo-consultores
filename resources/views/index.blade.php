@@ -25,7 +25,9 @@
         <x-header />
         <x-hero />
         <x-about-us />
-        <x-mision-vision />
+        <x-what-we-do />
+        <x-migo-process />
+        {{-- <x-distinctions /> --}}
 
         <script type="text/javascript" src="{{asset('assets/js/jquery.min.js')}}"></script>
         <script type="text/javascript" src="{{asset('assets/js/bootsnav.js')}}"></script>
