@@ -3967,3 +3967,10 @@ header a.logo{
     align-items: center;
 }
 
+.container-type-client i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+

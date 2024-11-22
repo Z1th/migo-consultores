@@ -19,6 +19,7 @@
         <!-- style sheets -->
         <link rel="stylesheet" type="text/css" href="{{asset('assets/css/style.css')}}" />
         <link rel="stylesheet" type="text/css" href="{{asset('assets/css/responsive.css')}}" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         
     </head>
     <body>
@@ -27,10 +28,11 @@
         <x-about-us />
         <x-what-we-do />
         <x-migo-process />
+        <x-services />
         <x-distinctions />
         <x-mision-vision />
         <x-our-clients />
-        <x-form />>
+        <x-form />
         <x-footer />
 
         <script type="text/javascript" src="{{asset('assets/js/jquery.min.js')}}"></script>

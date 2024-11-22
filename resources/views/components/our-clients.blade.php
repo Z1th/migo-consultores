@@ -10,11 +10,10 @@
 
         <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2">
 
-            <div class="col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin">
-                <div
-                    class="card-box-shadow bg-white border-color-extra-medium-gray border text-center padding-eighteen-tb border-radius-4 position-relative h-100">
-                    <div class="d-inline-block margin-20px-bottom"><i
-                            class="icon-tools text-white-2 icon-round-small bg-deep-blue"></i></div>
+            <div class="container-type-client col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin">
+                <div class="card-box-shadow bg-white border-color-extra-medium-gray border text-center padding-eighteen-tb border-radius-4 position-relative h-100">
+                    <div class="d-inline-block margin-20px-bottom">
+                        <i class="fa-solid fa-car text-white-2 icon-round-small bg-deep-blue"></i></div>
                     <div class="alt-font text-extra-dark-gray font-weight-600 margin-10px-bottom">
                         Créditos Automotrices
                         <ul class="ul-services">
@@ -27,12 +26,12 @@
                 </div>
             </div>
 
-            <div class="col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin"
+            <div class="container-type-client col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin"
                 data-wow-delay="0.2s">
                 <div
                     class="card-box-shadow bg-white border-color-extra-medium-gray border text-center padding-eighteen-tb border-radius-4 position-relative h-100">
                     <div class="d-inline-block margin-20px-bottom"><i
-                            class="icon-layers text-white-2 icon-round-small bg-deep-blue"></i></div>
+                            class="fa-solid fa-money-bill text-white-2 icon-round-small bg-deep-blue"></i></div>
                     <div class="alt-font text-extra-dark-gray font-weight-600 margin-10px-bottom">
                         Créditos FinTech
                         <ul class="ul-services">
@@ -41,13 +40,12 @@
                     </div>
                 </div>
             </div>
-            <!-- end features box item -->
-            <!-- start features box item -->
-            <div class="col xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s">
+
+            <div class="container-type-client col xs-margin-15px-bottom wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s">
                 <div
                     class="card-box-shadow bg-white border-color-extra-medium-gray border text-center padding-eighteen-tb border-radius-4 position-relative h-100">
                     <div class="d-inline-block margin-20px-bottom"><i
-                            class="icon-scissors text-white-2 icon-round-small bg-deep-blue"></i></div>
+                            class="fa-solid fa-building-columns text-white-2 icon-round-small bg-deep-blue"></i></div>
                     <div class="alt-font text-extra-dark-gray font-weight-600 margin-10px-bottom">
                         Créditos Bancarios
                         <ul class="ul-services">
@@ -56,13 +54,12 @@
                     </div>
                 </div>
             </div>
-            <!-- end features box item -->
-            <!-- start features box item -->
-            <div class="col wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.6s">
+         
+            <div class="container-type-client col wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.6s">
                 <div
                     class="card-box-shadow bg-white border-color-extra-medium-gray border text-center padding-eighteen-tb border-radius-4 position-relative h-100">
                     <div class="d-inline-block margin-20px-bottom"><i
-                            class="icon-lock text-white-2 icon-round-small bg-deep-blue"></i></div>
+                            class="fa-solid fa-house text-white-2 icon-round-small bg-deep-blue"></i></div>
                     <div class="alt-font text-extra-dark-gray font-weight-600 margin-10px-bottom">
                         Créditos Hipotecarios
                         <ul class="ul-services">
@@ -71,7 +68,6 @@
                     </div>
                 </div>
             </div>
-            <!-- end features box item -->
         </div>
     </div>
 </section>

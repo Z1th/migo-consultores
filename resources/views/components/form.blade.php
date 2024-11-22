@@ -29,12 +29,11 @@
                             <input type="text" name="subject" id="subject" placeholder="Motivo*" class="border-radius-4 bg-white medium-input required">
                         </div>
                         <div class="col-12">
-                            <textarea name="comment" id="comment" placeholder="Describe your project" rows="7"
+                            <textarea name="comment" id="comment" placeholder="Comentarios Adicionales" rows="7"
                                 class="border-radius-4 bg-white medium-input required"></textarea>
                         </div>
                         <div class="col-12 text-center">
-                            <button id="project-contact-us-4-button" type="submit"
-                                class="btn btn-deep-pink btn-medium margin-15px-top submit">send message</button>
+                            <button id="contact-us-button-3" type="submit" class="btn btn-small border-radius-4 btn-dark-gray submit">send message</button>
                         </div>
                     </div>
                 </form>
