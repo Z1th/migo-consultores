@@ -2299,7 +2299,7 @@ website:    http://www.themepunch.com
 }
 
 .zeus.tparrows:before {
-  font-family: "revicons";
+  /* font-family: "Font Awesome 6 Brands"; */
   font-size:20px;
   color:#fff;
   display:block;
@@ -2309,10 +2309,10 @@ website:    http://www.themepunch.com
   position:relative;
 }
 .zeus.tparrows.tp-leftarrow:before {
-  content: "\e824";
+  content: "\f060";
 }
 .zeus.tparrows.tp-rightarrow:before {
-  content: "\e825";
+  content: "\f061";
 }
 
 .zeus .tp-title-wrap {

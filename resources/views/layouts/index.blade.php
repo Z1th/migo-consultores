@@ -5,7 +5,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Migo | Consultores Jurídicos</title>
+    <meta name="keywords"
+        content="despacho de cobranza, recuperación de cartera vencida, cobranza jurídica, optimización de activos, resolución de conflictos económicos, recuperación de activos, riesgo crediticio, relación con deudores, agencia de cobranza en Ciudad de México, preservación de imagen institucional, soluciones personalizadas de cobranza">
+    <meta name="description"
+        content="Descubre en nuestro despacho de cobranza en Ciudad de México servicios especializados en recuperación de cartera vencida, resolución de conflictos económicos y optimización de activos. Garantizamos soluciones personalizadas, manteniendo intacta la imagen institucional de nuestros clientes.">
+
+    <meta property="og:image" content="{{asset('assets/images/pexels-olly-859264.webp')}}" />
+    <meta property="og:image:alt"
+        content="Despacho de cobranza especializado en recuperación de cartera vencida y resolución de conflictos económicos." />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <title>Migo Despacho de Cobranza | Resolución de Conflictos Económicos</title>
     <!--Favico -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/images/favico/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/images/favico/favicon-32x32.png') }}">
@@ -32,7 +44,7 @@
 <body>
 
     <x-header />
-        @yield('content')
+    @yield('content')
     <x-footer />
 
     <script type="text/javascript" src="{{ asset('assets/js/jquery.min.js') }}"></script>

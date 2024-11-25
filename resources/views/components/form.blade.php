@@ -1,4 +1,4 @@
-<section id="contact" class="wow animate__fadeIn p-0 bg-extra-dark-gray">
+<section id="contacto" class="wow animate__fadeIn p-0 bg-extra-dark-gray">
     <div class="container-fluid">
         <div class="row row-cols-1 row-cols-lg-2">
             <div class="col cover-background md-h-450px sm-h-350px wow animate__fadeIn"

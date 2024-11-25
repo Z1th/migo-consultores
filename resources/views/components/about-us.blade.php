@@ -1,4 +1,4 @@
-<section class="p-0 wow animate__fadeIn bg-light-gray" id="services">
+<section class="p-0 wow animate__fadeIn bg-light-gray" id="nosotros">
     <div class="container-fluid">
         <div class="row row-cols-1 row-cols-lg-2 row-cols-md-1">
             <div
