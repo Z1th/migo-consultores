@@ -46,7 +46,7 @@
                              style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 600; letter-spacing: -1px;">DESPACHO<br> DE COBRANZA</div>
 
                         <!-- layer nr. 5 -->
-                        <a href="#" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5" 
+                        <a href="#nosotros" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5" 
                            data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                            data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
                            data-fontsize="['12','14','14','14']"
@@ -62,7 +62,7 @@
                            data-paddingright="[26,26,26,26]"
                            data-paddingbottom="[6,6,6,6]"
                            data-paddingleft="[26,26,26,26]"
-                           data-basealign="slide">Cónocenos</a>
+                           data-basealign="slide">Conocenos</a>
                         <!-- LAYER NR. 6 -->
                     </li>
                     <!-- slide  -->
@@ -118,7 +118,7 @@
                              data-basealign="slide" 
                              style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 600; letter-spacing: -1px;">Consultores<br> Jurídicos</div>
                         <!-- layer nr. 5 -->
-                        <a href="portfolio-full-width-grid-overlay.html" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5" 
+                        <a href="#nosotros" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5" 
                            data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                            data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
                            data-fontsize="['12','14','14','14']"
