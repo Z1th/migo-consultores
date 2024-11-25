@@ -46,13 +46,11 @@
             </div>
         </div>
     </div>
-    <div class="container">
+    {{-- <div class="container">
         <div class="border-color-extra-light-gray border-top padding-40px-top sm-padding-30px-top">
             <div class="row"> 
-                <!-- start copyright -->
                 <div class="col-12 text-small text-center text-medium-gray">&copy; 2024 POFO is Proudly Powered by <a href="http://www.themezaa.com" target="_blank" title="ThemeZaa" class="text-medium-gray">ThemeZaa</a></div>
-                <!-- end copyright -->
             </div>
         </div>
-    </div>
+    </div> --}}
 </footer>

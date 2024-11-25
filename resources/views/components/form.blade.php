@@ -11,7 +11,8 @@
                 <h5 class="margin-55px-bottom text-white-2 alt-font font-weight-700 text-uppercase sm-margin-ten-bottom">
                     ¿Listo Para Agendar Una Cita?
                 </h5>
-                <form id="project-contact-form-4" action="email-templates/contact-form.php" method="post">
+                <form id="" action="{{route('formularioEmpresa')}}" method="post">
+                    @csrf
                     <div class="row">
                         <div class="col-12">
                             <div class="form-results d-none"></div>
@@ -33,7 +34,7 @@
                                 class="border-radius-4 bg-white medium-input required"></textarea>
                         </div>
                         <div class="col-12 text-center">
-                            <button id="contact-us-button-3" type="submit" class="btn btn-small border-radius-4 btn-dark-gray submit">send message</button>
+                            <button type="submit" class="btn btn-small border-radius-4 btn-dark-gray submit">send message</button>
                         </div>
                     </div>
                 </form>
