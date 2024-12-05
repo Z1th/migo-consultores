@@ -28,6 +28,13 @@
                             cartera vencida
                         </p>
                     </div>
+
+                    <div class="col margin-six-bottom md-margin-40px-bottom last-paragraph-no-margin text-center text-md-start">
+                        <div class="text-white margin-10px-bottom md-margin-5px-bottom alt-font"><span class="text-light-blue margin-15px-right float-start text-large d-block d-md-inline-block sm-w-100">03.</span>Valores</div>
+                        <p class="d-inline-block md-w-85 sm-w-90 text-white">
+                            Colaboración, Integridad, Responsabilidad, Pasión y Calidad.
+                        </p>
+                    </div>
    
                 </div>
             </div> 

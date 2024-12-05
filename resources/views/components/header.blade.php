@@ -1,10 +1,11 @@
 <header>
     <!-- start navigation -->
-    <nav class="bg-gradient-blue navbar navbar-default bootsnav navbar-top header-dark background-transparent white-link navbar-expand-lg">
+    <div class="relative" style="height:160px"></div>
+    <nav class="bg-gradient-gray navbar navbar-default bootsnav navbar-top header-dark background-transparent white-link navbar-expand-lg">
         <div class="container-lg nav-header-container">
             <!-- start logo -->
             <div class="col-auto ps-0">
-                <a href="index.html" title="Logo Migo Consultores Jurídicos" class="logo">
+                <a href="/" title="Logo Migo Consultores Jurídicos" class="logo">
                     <img src="{{asset('assets/images/logos/migo-logo.webp')}}" alt="Logo Migo Consultores Jurídicos" class="logo-light default">
                 </a>
             </div>
@@ -24,7 +25,7 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#nosotros">Nosotros</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <a href="{{route('nosotros')}}">Nosotros</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         </li>
 
                         <li class="dropdown megamenu-fw">
