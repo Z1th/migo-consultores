@@ -42,6 +42,7 @@
 <body>
 
     <x-header />
+    <x-whatsapp-button />
     @yield('content')
     <x-footer />
 

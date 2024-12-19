@@ -2,6 +2,7 @@
 
 @section('content')
     <x-hero />
+    <x-supplementary-info />
     <x-services />
     <x-distinctions />
     <x-our-clients />
