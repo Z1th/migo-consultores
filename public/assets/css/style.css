@@ -4058,4 +4058,28 @@ header a.logo{
     font-size: 2.5rem
   }
 
+  .img-about-us-resume img{
+    height: 360px;
+    width: 100%;
+    object-fit: contain;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+  }
 
+  .mision-vision .pricing-box{
+    background: #f3f3f3;
+    border-radius: 0 0 160px 160px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
+
+  .mision-vision .pricing-features{
+    padding: 0 45px 45px;
+  }
+
+  @media (max-width: 767px) {
+    .mision-vision .pricing-features {
+        padding: 30px;
+    }
+}

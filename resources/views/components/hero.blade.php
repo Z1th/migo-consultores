@@ -10,7 +10,7 @@
                             <p class="wow animate__bounceInLeft text-white text-large margin-four-bottom w-40 lg-w-50 md-w-60 sm-w-100 sm-margin-15px-bottom">Recuperamos tus cuentas con rapidez, ética y precisión, brindándote soluciones cuidadosamente diseñadas.</p>
                             <div class="btn-dual wow animate__bounceInUp"> 
                                 <a href="https://1.envato.market/g7jrr" target="_blank" class="btn btn-light-blue btn-rounded btn-small no-margin-lr">Cóntactanos</a>
-                                <a href="https://1.envato.market/g7jrr" target="_blank" class="btn btn-transparent-light-blue btn-rounded btn-small margin-20px-lr sm-margin-5px-top">Cónocenos</a></div>
+                                <a href="{{route('nosotros')}}" target="_blank" class="btn btn-transparent-light-blue btn-rounded btn-small margin-20px-lr sm-margin-5px-top">Cónocenos</a></div>
                         </div>
                     </div>
                 </div>

@@ -3,8 +3,9 @@
 @section('content')
     <x-hero />
     <x-supplementary-info />
-    <x-services />
+    <x-about-us-resume />
+    {{-- <x-services />
     <x-distinctions />
     <x-our-clients />
-    <x-form />
+    <x-form /> --}}
 @endsection
