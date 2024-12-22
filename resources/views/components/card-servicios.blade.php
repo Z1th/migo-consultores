@@ -1,8 +1,9 @@
-<div class="pricing-box border border-color-extra-light-gray">
+<div class="pricing-box service-box border border-color-extra-light-gray">
     <div style="padding: 20px 0">
         <!-- start pricing title -->
         <div class="pricing-title text-center">
-            <i class="{{ $icon }} icon-large text-deep-pink d-inline-block padding-30px-all bg-white box-shadow-light rounded-circle" style="background-color: {{$bgcolor}} !important; color:white; border:5px solid #fbfbfbad"></i>
+            <i class="{{ $icon }} icon-large text-deep-pink d-inline-block padding-30px-all bg-white box-shadow-light rounded-circle"
+                style="background-color: {{ $bgcolor }} !important; color:white; border:5px solid #fbfbfbad"></i>
         </div>
         <!-- end pricing price -->
     </div>
@@ -16,6 +17,10 @@
         <ul class="list-style-11">
             <li>{{ $texto }}</li>
         </ul>
+
+        @if (isset($lista) && $lista)
+            {!! $lista !!}
+        @endif
 
     </div>
     <!-- end pricing features -->

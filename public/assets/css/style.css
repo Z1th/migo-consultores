@@ -298,6 +298,7 @@ a.text-very-light-gray-hover:hover {color:#ededed !important;}
 .bg-deep-blue{background-color: #5666f7}
 .bg-gradient-blue{background: linear-gradient(135deg, #1a237e, #3949ab);}
 .bg-gradient-gray{background: linear-gradient(135deg, #181818, #000000);}
+.bg-light-blue{background: #6bcec4;}
 
 /* ===================================
     05. Custom
@@ -4071,6 +4072,11 @@ header a.logo{
     background: #f3f3f3;
     border-radius: 0 0 160px 160px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 410px;
+  }
+
+  .cobranza-servicios .service-box{
+    height: auto !important;
   }
 
 

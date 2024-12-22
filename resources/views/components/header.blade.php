@@ -18,7 +18,7 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#servicios">Servicios</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <a href="{{route('cobranza')}}">Cobranza</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         </li>
                      
                     </ul>
@@ -50,7 +50,7 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#contacto">Contacto</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <a href="#contacto">Clientes</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         </li>
                      
                     </ul>

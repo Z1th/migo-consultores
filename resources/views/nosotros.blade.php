@@ -1,7 +1,9 @@
 @extends('layouts.index')
 
 @section('content')
-    <x-about-us />
+    <x-banner-page 
+        url="assets/images/about-us/banner.webp" 
+        nameSection="Nosotros"/>
     <x-what-we-do />
     {{-- <x-card-text-section /> --}}
     <x-mision-vision />
