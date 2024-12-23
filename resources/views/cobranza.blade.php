@@ -7,4 +7,5 @@
     />
 
     <x-cobranza-servicios />
+    <x-cobranza-faq />
 @endsection

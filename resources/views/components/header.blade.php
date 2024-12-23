@@ -42,15 +42,15 @@
                     <ul id="accordion" class="nav navbar-nav no-margin alt-font text-normal" data-in="animate__fadeIn" data-out="animate__fadeOut">
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#cobertura">Cobertura</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <a href="{{route('nuestros-clientes')}}">Clientes</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#contacto">Contacto</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <a href="{{route('cobertura')}}">Cobertura</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#contacto">Clientes</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <a href="{{route('contacto')}}">Contacto</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         </li>
                      
                     </ul>

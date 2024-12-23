@@ -1,6 +1,15 @@
 <section class="wow animate__fadeI mision-vision cobranza-servicios">
     <div class="container">    
-        <div class="row row-cols-1 row-cols-lg-3 align-items-center justify-content-center">
+
+        <div class="row">
+            <div class="col-12 text-center margin-100px-bottom md-margin-70px-bottom sm-margin-50px-bottom">
+                <div class="alt-font margin-5px-bottom text-uppercase text-small text-light-blue">Cobranza</div>
+                <h5 class="text-uppercase alt-font text-extra-dark-gray margin-20px-bottom font-weight-700 md-w-100">Nuestros Servicios de Cobranza</h5>
+                <span class="separator-line-horrizontal-medium-light2 bg-light-blue d-table mx-auto w-100px"></span>
+            </div>
+        </div>
+
+        <div class="row row-cols-1 row-cols-lg-3 align-items-top justify-content-center">
 
             <div class="col-md-8 text-center pricing-box-style1 md-margin-30px-bottom wow animate__fadeInUp">
                 <x-card-servicios 

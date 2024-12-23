@@ -13,7 +13,7 @@ Route::get('formulario-gracias', function () { return view('gracias');}) ->name(
 
 Route::get('/nosotros' , function (){ return view('nosotros'); }) ->name('nosotros');
 Route::get('/cobranza' , function (){ return view('cobranza'); }) ->name('cobranza');
-
-Route::get('/cobertura' , function (){ return view('cobertura'); }) ->name('cobertura');
-Route::get('/contacto' , function (){ return view('contacto'); }) ->name('contacto');
 Route::get('/nuestros-clientes' , function (){ return view('nuestros-clientes'); }) ->name('nuestros-clientes');
+Route::get('/cobertura' , function (){ return view('cobertura'); }) ->name('cobertura');
+
+Route::get('/contacto' , function (){ return view('contacto'); }) ->name('contacto');
