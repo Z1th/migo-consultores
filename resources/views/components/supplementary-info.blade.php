@@ -1,31 +1,53 @@
-<section class="">
-    <div class="container">
+<section class="wow animate__fadeIn">
+    <div class="container"> 
+        <div class="row align-items-center">
+            <div class="col-lg-5 text-center md-margin-50px-bottom wow animate__fadeInLeft">
+                <img src="{{asset('assets/images/pexels-snapwire-618613.webp')}}" alt="" class="w-100">
+            </div> 
+            <div class="col-lg-7 wow animate__fadeInRight last-paragraph-no-margin" data-wow-delay="0.2s">
+                <div class="padding-eight-lr text-center text-lg-start sm-no-padding w-100">
+                    <span class="text-light-blue alt-font margin-10px-bottom md-no-margin-bottom d-inline-block text-medium">Recuperamos tus recursos de manera eficaz y profesional</span>
+                    <h5 class="font-weight-600 alt-font text-extra-dark-gray">Soluciones legales especializadas en cobranza para proteger tus finanzas.</h5>
+                    <p>En nuestro despacho, transformamos cuentas por cobrar en activos recuperados. Con procesos estratégicos y atención profesional, garantizamos una gestión efectiva de cobros, siempre respetando la integridad de las relaciones comerciales de nuestros clientes.</p>
+                    <a href="{{route('cobranza')}}" class="btn btn-light-blue btn-rounded btn-small no-margin-lr margin-30px-top">Conoce nuestros servicios</a>
+                </div>
+            </div>
+        </div>
+        <div class="divider-full bg-extra-light-gray margin-seven-bottom margin-eight-top"></div>
         <div class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 justify-content-center">
-            
-            <div class="wow animate__bounceInLeft col feature-box-1 md-margin-60px-bottom sm-margin-40px-bottom last-paragraph-no-margin">
-                <div class="d-flex align-items-center margin-15px-bottom alt-font">
-                    <h3 class="char-value text-light-blue letter-spacing-minus-1 text-medium-gray font-weight-600 mb-0">01.</h3>
-                    <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left w-100">Creativity.<br> Discover talent.</span>
+            <!-- start features box item -->
+            <div class="col md-margin-50px-bottom sm-margin-40px-bottom wow animate__fadeInUp last-paragraph-no-margin">
+                <div class="feature-box-5 position-relative">
+                    <i class="icon-desktop text-medium-gray icon-medium"></i>
+                    <div class="feature-content">
+                        <div class="text-extra-dark-gray margin-10px-bottom alt-font font-weight-600">Cobranza Extrajudicial</div>
+                        <p class="d-inline-block w-75 lg-w-100 xs-w-90">Estrategias de recuperación sin necesidad de procedimientos legales.</p>
+                    </div>
                 </div>
-                <p class="w-90 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
             </div>
-           
-            <div class="wow animate__backInUp col feature-box-1 md-margin-60px-bottom sm-margin-40px-bottom last-paragraph-no-margin" data-wow-delay="0.2s">
-                <div class="d-flex align-items-center margin-15px-bottom alt-font">
-                    <h3 class="char-value text-light-blue letter-spacing-minus-1 text-medium-gray font-weight-600 mb-0">02.</h3>
-                    <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left w-100">Technology.<br> Expert analysis.</span>
+            <!-- end features box item -->
+            <!-- start features box item -->
+            <div class="col md-margin-50px-bottom sm-margin-40px-bottom wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.2s">
+                <div class="feature-box-5 position-relative">
+                    <i class="icon-book-open text-medium-gray icon-medium"></i>
+                    <div class="feature-content">
+                        <div class="text-extra-dark-gray margin-10px-bottom alt-font font-weight-600">Cobranza Judicial</div>
+                        <p class="d-inline-block w-75 lg-w-100 xs-w-90">Acciones legales para recuperar deudas en el menor tiempo posible.</p>
+                    </div>
                 </div>
-                <p class="w-90 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
             </div>
-
-            <div class="wow animate__bounceInRight col feature-box-1 last-paragraph-no-margin" data-wow-delay="0.4s">
-                <div class="d-flex align-items-center margin-15px-bottom alt-font">
-                    <h3 class="char-value text-light-blue letter-spacing-minus-1 text-medium-gray font-weight-600 mb-0">03.</h3>
-                    <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left w-100">Discover.<br> Explore work.</span>
+            <!-- end features box item -->
+            <!-- start features box item -->
+            <div class="col wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s">
+                <div class="feature-box-5 position-relative">
+                    <i class="icon-gift text-medium-gray icon-medium"></i>
+                    <div class="feature-content">
+                        <div class="text-extra-dark-gray margin-10px-bottom alt-font font-weight-600">Gestión Transparente</div>
+                        <p class="d-inline-block w-75 lg-w-100 xs-w-90">Informes claros y seguimiento puntual de cada caso.</p>
+                    </div>
                 </div>
-                <p class="w-90 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
             </div>
-            
+            <!-- end features box item -->
         </div>
     </div>
 </section>

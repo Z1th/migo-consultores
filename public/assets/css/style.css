@@ -4089,3 +4089,30 @@ header a.logo{
         padding: 30px;
     }
 }
+
+.accordion-menu.mobile{
+    display: none;
+}
+
+@media(max-width:991px){
+    .call-cta, .accordion-menu.left, .accordion-menu.right{
+        display: none;
+    }
+
+    .accordion-menu.mobile{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+.benefits-home img{
+    height: 600px;
+    object-fit: cover;
+}
+
+@media(max-width:991px){
+    .benefits-home img{
+        display: none;
+    }
+}
+
