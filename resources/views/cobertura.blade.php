@@ -35,7 +35,7 @@
 
                 <div class="col fit-videos text-center sm-margin-30px-bottom">
                     <iframe width="560" height="315" src="{{asset('assets/videos/cobertura.mp4')}}"
-                        allowfullscreen load="lazy" style="border-radius: 20px"></iframe>
+                        allowfullscreen load="lazy" style="border-radius: 20px; width:100%"></iframe>
                 </div>
             </div>
 
