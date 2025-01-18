@@ -10,7 +10,7 @@
     <meta name="description"
         content="Descubre en nuestro despacho de cobranza en Ciudad de México servicios especializados en recuperación de cartera vencida, resolución de conflictos económicos y optimización de activos. Garantizamos soluciones personalizadas, manteniendo intacta la imagen institucional de nuestros clientes.">
 
-    <meta property="og:image" content="{{asset('assets/images/pexels-olly-859264.webp')}}" />
+    <meta property="og:image" content="{{asset('assets/images/logos/migo-logo.webp')}}" />
     <meta property="og:image:alt"
         content="Despacho de cobranza especializado en recuperación de cartera vencida y resolución de conflictos económicos." />
     <meta property="og:image:type" content="image/jpeg" />

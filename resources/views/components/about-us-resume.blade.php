@@ -8,7 +8,7 @@
                     Desde nuestra fundación el 1° de agosto de 2019 en la Ciudad de México, nos especializamos en servicios de alta gama enfocados en la 
                     <b class="text-light-blue text-large">resolución de problemas financieros, optimizando la recuperación de activos y gestionando riesgos crediticios con excelencia</b>.
                 </p>
-                <a class="btn btn-small btn-transparent-light-blue btn-rounded font-weight-700" href="{{route('nosotros')}}">Cónocenos</a>
+                <a class="btn btn-small btn-transparent-light-blue btn-rounded font-weight-700" href="{{route('nosotros')}}">Conocenos</a>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 sm-margin-15px-bottom wow animate__fadeIn img-about-us-resume" data-wow-delay="0.2s">
                 <img src="{{asset('assets/images/logos/migo-logo.webp')}}" alt="Logo Migo Consultores Jurídicos">

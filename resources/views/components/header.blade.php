@@ -68,7 +68,7 @@
                     <ul id="accordion" class="nav navbar-nav no-margin alt-font text-normal" data-in="animate__fadeIn" data-out="animate__fadeOut">
 
                         <li class="dropdown megamenu-fw">
-                            <a href="/">Incio</a>
+                            <a href="/">Inicio</a>
                         </li>
 
                         <li class="dropdown megamenu-fw">

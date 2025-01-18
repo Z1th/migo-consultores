@@ -19,7 +19,7 @@
                     texto="Servicios y herramientas de gestión:" 
                     lista="
                     <ul>
-                        <li>Gestión telefonica por medio de predictivo</li>
+                        <li>Gestión telefónica por medio de predictivo</li>
                         <li>Avisos SMS y Whatsapp</li>
                         <li>Mailing Masivos</li>
                         <li>Visitas de Acreditados</li>
