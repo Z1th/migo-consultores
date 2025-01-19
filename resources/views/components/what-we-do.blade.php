@@ -9,13 +9,16 @@
                 data-wow-delay="0.2s">
                 <span class="text-light-blue alt-font margin-10px-bottom d-inline-block text-medium">Migo Consultores
                     Jurídicos</span>
-                <h6 class="alt-font text-extra-dark-gray">Te ayudamos a contener, sanar y liquidar tu cartera vencida.
+                <h6 class="alt-font text-extra-dark-gray">Te ayudamos a contener, sanar y liquidar tu cartera vencida de forma segura.
                 </h6>
-                <p>Constituidos en la Ciudad de México el día 01 de Agosto del 2019</p>
-                <p>Somos una firma de alta gama especializada en brindar servicios en resolución de conflictos
-                    económicos, poniendo énfasis en la optimización de procesos de recuperación de activos y riesgo
-                    crediticio.</p>
-                <p>Buscamos soluciones en la recuperación de cartera vencida para nuestros clientes.</p>
+                <p>
+                    Procuramos la seguridad de la información de nuestros clientes por medio de un servidor, CRM interno, correos corporativos monitoreados, mensajes de texto y Whatsapp monitoreados agregando contratos de confidencialidad con nuestros colaboradores. De esa manera eliminamos fuga de información.
+                </p>
+
+                <p>
+                    Mantenemos intacto el nombre de nuestros clientes. Dentro de la agencia tenemos presente que la imagen institucional es uno de los bienes mas preciados para el ciclo del otorgamiento de créditos, por lo que nuestra prioridad es que el deudor siga siendo un cliente.
+                </p>
+               
                 <a href="{{ route('cobranza') }}"
                     class="btn btn-light-blue btn-small text-extra-small btn-rounded margin-5px-top"><i
                         class="fa-solid fa-circle-play icon-very-small margin-5px-right no-margin-left"

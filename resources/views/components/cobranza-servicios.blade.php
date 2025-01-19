@@ -45,7 +45,7 @@
                     titulo="Preventiva" 
                     bgcolor="#cbc500"
                     icon="ti-shield"
-                    texto="Colaboración, integridad, responsabilidad, pasión y calidad." 
+                    texto="" 
                     lista="
                     <ul>
                         <li>Recordatorio antes de Mora</li>

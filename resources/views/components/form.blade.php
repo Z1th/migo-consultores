@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row row-cols-1 row-cols-lg-2">
             <div class="col cover-background md-h-450px sm-h-350px wow animate__fadeIn"
-                style="background: url({{asset('assets/images/pexels-snapwire-618613.webp')}})"></div>
+                style="background: url({{asset('assets/images/8497aa66-c319-4334-93e2-f1674eedaebf.webp')}})"></div>
             <div
                 class="bg-gradient-gray col text-center padding-six-lr padding-five-half-tb lg-padding-four-lr md-padding-ten-half-tb md-padding-twelve-half-lr sm-padding-15px-lr wow animate__fadeIn">
                 <div class="text-white alt-font text-small text-uppercase margin-5px-bottom sm-margin-three-bottom">

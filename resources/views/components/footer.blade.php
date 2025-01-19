@@ -26,7 +26,7 @@
                         <a href="tel:+525589400672" class="text-medium-gray">55 8940 0672</a>
                     </div>
                     <div class="text-small line-height-24 text-medium-gray">Cel: 
-                        <a href="https://wa.me/+525536096837?text=Necesito una asesoría legal" class="text-medium-gray">55 1127 5432</a>
+                        <a href="https://wa.me/+525536096837?text=Necesito una asesoría legal" class="text-medium-gray">56 1185 3970</a>
                     </div>
                 </div>
                 <!-- end contact information -->
@@ -34,7 +34,8 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 widget sm-margin-30px-bottom">
                     <div class="widget-title alt-font text-extra-small text-extra-dark-gray text-uppercase margin-15px-bottom font-weight-600">Redes Sociales</div>
                     <ul class="list-unstyled">
-                        <li class="w-50 float-start"><a href="https://www.facebook.com/" target="_blank" class="text-medium-gray text-small">Facebook</a></li>
+                        <li class="w-50 float-start"><a href="https://www.facebook.com/profile.php?id=61566920264858&locale=es_LA" target="_blank" class="text-medium-gray text-small">Facebook</a></li>
+                        <li class="w-50 float-start"><a href="https://www.linkedin.com/company/migo-consultores-jur%C3%ADdicos/?viewAsMember=true" target="_blank" class="text-medium-gray text-small">Linkedin</a></li>
                         {{-- <li class="w-50 float-start"><a href="https://www.pinterest.com/" target="_blank" class="text-medium-gray text-small">Pinterest</a></li>
                         <li class="w-50 float-start"><a href="https://www.twitter.com/" target="_blank" class="text-medium-gray text-small">Twitter</a></li>
                         <li class="w-50 float-start"><a href="https://www.linkedin.com/" target="_blank" class="text-medium-gray text-small">Linkedin</a></li>

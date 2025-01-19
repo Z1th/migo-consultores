@@ -10,7 +10,7 @@
                     <ul id="accordion" class="nav navbar-nav no-margin alt-font text-normal" data-in="animate__fadeIn" data-out="animate__fadeOut">
                         <!-- start menu item -->
                         <li class="dropdown megamenu-fw">
-                            <a href="/">Incio</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <a href="/">Inicio</a><i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         </li>
 
                         <li class="dropdown megamenu-fw">

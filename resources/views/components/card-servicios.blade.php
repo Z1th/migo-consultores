@@ -14,9 +14,11 @@
             <h4 class="text-extra-dark-gray alt-font font-weight-600 mb-2">{{ $titulo }}</h4>
         </div>
 
+        @if($texto != '')
         <ul class="list-style-11">
             <li>{{ $texto }}</li>
         </ul>
+        @endif
 
         @if (isset($lista) && $lista)
             {!! $lista !!}

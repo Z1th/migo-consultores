@@ -57,7 +57,7 @@
                         </div>
                         <div id="accordion-two-link3" data-bs-parent="#accordion-two" class="panel-collapse collapse">
                             <div class="panel-body last-paragraph-no-margin">
-                                <p>Buscamos ser especialistas en cuanto al producto de nuestros clientes, por lo que realizamos cuestionarios constantes con la información de las financieras. De esta manera al contar con mayor conocimiento del producto y aumenta la posibilidad de recuperación.</p>
+                                <p>Buscamos ser especialistas en cuanto al producto de nuestros clientes, por lo que realizamos cuestionarios constantes con la información de las financieras. De esta manera al contar con mayor conocimiento del producto aumenta la posibilidad de recuperación.</p>
                             </div>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                         <div id="accordion-two-link6" data-bs-parent="#accordion-two" class="panel-collapse collapse">
                             <div class="panel-body last-paragraph-no-margin">
                                 <p>
-                                    Dentro de nuestra empresa tenemos un lema: “Cada colaborador de Migo realiza el trabajo de tres gestores de la competencia”, Esto por las herramientas que les enseñamos a usare para maximizar su productividad y eficiencia diariamente.
+                                    Dentro de nuestra empresa tenemos un lema: “Cada colaborador de Migo realiza el trabajo de tres gestores de la competencia”, Esto por las herramientas que les enseñamos a usar para maximizar su productividad y eficiencia diariamente.
                                 </p>
                             </div>
                         </div>
