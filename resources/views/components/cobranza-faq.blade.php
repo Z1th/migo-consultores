@@ -32,7 +32,7 @@
                         <div class="panel-heading">
                             <a class="accordion-toggle collapsed" data-bs-toggle="collapse" data-bs-parent="#accordion-two" href="#accordion-two-link2" aria-expanded="false">
                                 <div class="panel-title font-weight-500 text-uppercase position-relative padding-20px-right">
-                                    <span>Lenguajes jurídicos por parte de nuestro equipo de trabajo:</span>
+                                    <span>Lenguaje jurídico por parte de nuestro equipo de trabajo:</span>
                                     <i class="ti-plus text-dark-gray"></i>
                                 </div>
                             </a>
@@ -84,7 +84,7 @@
                         <div class="panel-heading">
                             <a class="accordion-toggle collapsed" data-bs-toggle="collapse" data-bs-parent="#accordion-two" href="#accordion-two-link5" aria-expanded="false">
                                 <div class="panel-title font-weight-500 text-uppercase position-relative padding-20px-right">
-                                    <span>Visitas con personal bien capacitad</span>
+                                    <span>Visitas con personal bien capacitado</span>
                                     <i class="ti-plus text-dark-gray"></i>
                                 </div>
                             </a>

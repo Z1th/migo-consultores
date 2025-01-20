@@ -20,7 +20,7 @@
 
                 <div class="col text-left sm-margin-30px-bottom">
                         <p>
-                            Ubicados en Ciudad de México en Carr. Picacho-Ajusco 130 Despacho. Jardines en la Montaña, Tlalpan, 13210 Ciudad de México, CDMX. Desde este lugar se trabaja todas nuestras carteras de forma extrajudicial y se maneja toda la logística de nuestras corresponsales.
+                            Ubicados en Ciudad de México en Carr. Picacho-Ajusco 130 Despacho. Jardines en la Montaña, Tlalpan, 14210 Ciudad de México, CDMX. Desde este lugar se trabaja todas nuestras carteras de forma extrajudicial y se maneja toda la logística de nuestras corresponsales.
                         </p>
                         <p>
                             Tenemos corresponsales que nos ayudan en temas judiciales y visitas de la cartera en: Querétaro, Puebla, Tlaxcala, Hidalgo, Toluca, Morelos, Quintana Roo, Campeche, Yucatán y Veracruz.

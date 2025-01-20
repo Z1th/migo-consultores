@@ -19,9 +19,6 @@
                     <div class="text-small line-height-24 text-medium-gray">Email: 
                         <a href="mailto:conciliaciones@migoconsultoresjuridicos.com" class="text-medium-gray">conciliaciones@migoconsultoresjuridicos.com</a>
                     </div>
-                    <div class="text-small line-height-24 text-medium-gray">Email: 
-                        <a href="mailto:aleminor@migoconsultoresjuridicos.com" class="text-medium-gray">aleminor@migoconsultoresjuridicos.com</a>
-                    </div>
                     <div class="text-small line-height-24 text-medium-gray">Tel: 
                         <a href="tel:+525589400672" class="text-medium-gray">55 8940 0672</a>
                     </div>
