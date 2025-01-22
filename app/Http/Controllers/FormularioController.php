@@ -14,7 +14,7 @@ class FormularioController extends Controller
         $subject = $request->subject;
         $additional_comments = $request->comment;
 
-        $company_email = 'aleminor@migoconsultoresjuridicos.com';
+        $company_email = 'conciliaciones@migoconsultoresjuridicos.com';
 
         $bodyMail = '
         <!DOCTYPE html>
