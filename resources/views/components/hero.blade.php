@@ -4,14 +4,13 @@
             <div class="swiper-slide cover-background position-relative">
                 <div class="video-background">
                     <iframe 
-                      src="https://www.youtube.com/embed/nbdskrwnUaI?autoplay=1&mute=1&loop=1&playlist=nbdskrwnUaI"
-                      frameborder="0" 
-                      allow="autoplay; fullscreen; encrypted-media" 
-                      allowfullscreen
-                      style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; pointer-events: none;">
+                        src="https://www.youtube.com/embed/nbdskrwnUaI?autoplay=1&mute=1&loop=1&playlist=nbdskrwnUaI&controls=0&modestbranding=1&rel=0"
+                        frameborder="0" 
+                        allow="autoplay; fullscreen; encrypted-media" 
+                        allowfullscreen
+                        style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; pointer-events: none;">
                     </iframe>
                   </div>
-                
             </div>
         </div>
 
